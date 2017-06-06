@@ -1,14 +1,12 @@
 # FinalExamProject
 By Sam Powers
 
-## Problem: stringE-
+### Problem: stringE-
 Hint: Try using a for loop to count the number of e's.
 
-## Problem: nTwice-
+### Problem: nTwice-
 Hint: `str.substring(str.length() - n)` creates a string from n index to the end of the string.
 
-line 3
-
-`code`
+### Problem: 
 
 
