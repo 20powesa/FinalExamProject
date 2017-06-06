@@ -1,7 +1,9 @@
 # FinalExamProject
+By Sam Powers
 
-## name
-line 1
+## Problem: stringE
+
+Hint: Try using a for loop to count the number of e's.
 
 line 2
 
