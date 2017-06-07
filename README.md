@@ -22,12 +22,18 @@ Hint: Declare a string to compare to a specific location in the original string.
 ### Problem: lastDigit-
 Hint: Compare variable "a" % to a specific number and variable "b" % to that same number.
 
-### Problem makeBricks-
+### Problem: makeBricks-
 Hint: Think of the two scenarios that would allow makeBricks to be false. One of them is if `goal % 5 > small`, because you do not have enough bricks to extend to the length you would want.
 
-### Problem dateFashion-
+### Problem: dateFashion-
 Hint: If you or your date are less than or equal to two, then you are not allowed a table. Example: `if (you <= 2 || date <= 2)`.
 
-### Problem specialEleven-
+### Problem: specialEleven-
 Hint: The `%` or mod operand is used to find the remainder of a number divided by another. So, 10 % 7 would be 3. And 4 % 2 would be 0. You can use the mod operand in this code to see if a number is a multiple of 11 by simply coding something similar to this: 
 `if(n % 11 == 0)`.
+
+### Problem: withouEnd2-
+Hint: You can use an "if" statement to exclude the string if its length is less than or equal to two.
+
+### Problem: atFirst-
+Hint: Use "if" statements to ensure that @ symbols will be used if the string length is 0 or 1.
