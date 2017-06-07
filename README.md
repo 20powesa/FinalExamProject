@@ -19,4 +19,6 @@ Hint: Declare an empty string and add a character every nth index in a for loop.
 ### Problem: mixStart-
 Hint: Declare a string to compare to a specific location in the original string. For example `String mix = str.substring(x, y);`.
 
+### Problem: lastDigit-
+Hint: Compare variable "a" % to a specific number and variable "b" % to that same number.
 
